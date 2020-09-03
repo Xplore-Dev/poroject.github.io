@@ -126,12 +126,14 @@ div#about_images {
 
 #about_images img {
     width: 487px;
+    transform: translate(300px);
 }
 
 #aboutRight {
     width: 700px;
     display: inline-block;
     float: right;
+    transform: translate(-178px);
 }
 
 #about_contant_all {
